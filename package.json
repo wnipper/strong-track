@@ -92,9 +92,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/will.nipper/strong-track/issues"
-  },
-  "homepage": "https://github.com/will.nipper/strong-track",
-  "engines": {
-    "node": "stable"
   }
 }
